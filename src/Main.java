@@ -31,7 +31,7 @@ public class Main {
         } else if (operationSystem == 1 && yearOfManufactureOfThePhone < currentYear) {
                 System.out.println("Установите облегченную версию приложения для Android по ссылке");
         } else {
-            System.out.println("У вас неизвестная операционная система. У нас нет для вас подходящего приложения");
+            System.out.println("У вас неизвестная операционная система. У нас нет для вас подходящего приложения. Обратитесь в нашу службу поддержки.");
         }
 
     }
